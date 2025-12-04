@@ -3,6 +3,7 @@
 
 ## Cources Center Network:
 Secure Enterprise Network with Fortinet Security Fabric – HQ + Branch Office Deployment.
+![](/Network.png).
 
 ## Business Objectives
 * Provide secure, highly available network services for HQ and Branch users
